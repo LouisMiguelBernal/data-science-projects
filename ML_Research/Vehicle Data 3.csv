@@ -1,0 +1,6 @@
+maker,model,vehicle_class,engine_size,cylinders,transmission,fuel,fuel_consumption
+NISSAN,SENTRA,COMPACT,1.8,4,M5,X,10.1
+NISSAN,SENTRA,COMPACT,2,4,A4,X,11.2
+NISSAN,SENTRA,COMPACT,2,4,M5,X,11.3
+TOYOTA,CAMRY,MID-SIZE,2.2,4,M5,X,11.3
+VOLKSWAGEN,GOLF,COMPACT,2,4,M5,X,11.2

@@ -1,0 +1,6 @@
+maker,model,vehicle_class,engine_size,cylinders,transmission,fuel,fuel_consumption
+ACURA,1.7EL,COMPACT,1.7,4,A4,X,9.3
+ACURA,1.7EL,COMPACT,1.7,4,M5,X,8.9
+ACURA,3.2CL,COMPACT,3.2,6,AS5,Z,13.7
+ACURA,3.2TL,MID-SIZE,3.2,6,AS5,Z,13.8
+ACURA,3.5RL,MID-SIZE,3.5,6,A4,Z,15.0
